@@ -3,7 +3,7 @@
 ## Description
 
 This website is a practice for using semantic HMTL.
-HTML tags with no specific meaning like <div> were replaced for others like <section>, <article>, <aside> etc.
+HTML tags with no specific meaning like \<div\> were replaced for others like \<section\>, \<article\>, \<aside\>, etc.
 
 ## Installation
 
