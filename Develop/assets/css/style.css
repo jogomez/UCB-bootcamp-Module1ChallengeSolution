@@ -50,12 +50,17 @@ a {
 
 .hero {
     height: 800px;
+    margin-bottom: 25px;
+}
+
+.hero-image {
+    background-position: center;
+    background-size: cover;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url(../images/digital-marketing-meeting.jpg);
-    background-size: cover;
-    background-position: center;
 }
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
